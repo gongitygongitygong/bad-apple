@@ -32,7 +32,7 @@ The MakeCode engine struggled to maintain a consistent 30 FPS at 160x120.
 
 # Running this project
 
-As this code is **MASSIVE** (~20,000 lines) sharing the code using the share button simply just times out an doesn't work. As a result, we have to compile it manually from GitHub. Below I have stated how to compile and run the code yourself.
+As this code is **MASSIVE** (~200,000 lines) sharing the code using the share button simply just times out an doesn't work. As a result, we have to compile it manually from GitHub. Below I have stated how to compile and run the code yourself.
 
 * open [Makecode Arcade](https://arcade.makecode.com/)
 * click on **Import** then click on **Import URL**
